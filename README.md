@@ -1,3 +1,14 @@
+# React Netflix clone
+
+I created netflix clone.\
+I displayed all the existing API data in UI using Axios.\
+I have used React JSX for design and functionality ,Tailwindcss and MUI for styling.\
+My Netflix clone is responsive can use in small to large phone,tablet,laptop and desktop.
+
+Demo Live App:https://r-netflixclone.netlify.app/
+
+This project is open scorce, 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
